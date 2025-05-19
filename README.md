@@ -1,1 +1,2 @@
 # real-estate-hypothesis-testing
+This mini-project presents a statistical exploration of real estate prices in the Seattle area. The analysis consists of three hypothesis-driven investigations using both manual and library-based implementations of statistical tests. We also analyzed an old stock in Seattle and selected an approximately accurate value for it, as well as analyzed many probability distributions for the price in search of the best one.
